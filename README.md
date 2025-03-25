@@ -30,6 +30,7 @@ A **MERN (MongoDB, Express.js, React, Node.js)** full-stack project designed to 
 
 # Clone the repository
 git clone https://github.com/Ayussh-Raj/study-abroad-site.git
+
 cd study-abroad-site
 
 # Install dependencies
